@@ -1,4 +1,4 @@
 
 aiogram==3.19.0  # As of July 2024
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 aiohttp==3.13.4
